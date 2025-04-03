@@ -1,6 +1,6 @@
 # push_swap
 
-## Used Algorithm: Turk Algorithm
+#### Used Algorithm: Turk Algorithm
 
 ## Goals
 The aim of the project is to test the understanding of various sorting algorithms, their corresponding complexities and data structures, and the ability to implement this in code.
